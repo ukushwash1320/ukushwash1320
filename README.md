@@ -43,9 +43,11 @@
 
 ## 📊 GitHub Stats
 
-![Uday Kushwah's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Uday Kushwah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukushwash1320&show_icons=true&theme=radical&hide_border=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&date_format=M%20j%5B,%20Y%5D)  
+![GitHub Streak](https://streak-stats.demolab.com?user=ukushwash1320&theme=radical&date_format=M%20j%5B,%20Y%5D&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ukushwash1320&layout=compact&theme=radical&hide_border=true)
 
 ---
 
