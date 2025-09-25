@@ -15,8 +15,7 @@
 
 ## 🛠️ Tech / Soft Skills
 
-![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-4CAF50?style=for-the-badge&logo=teams&logoColor=white)  
-![Interpersonal Skills](https://img.shields.io/badge/Interpersonal%20Skills-2196F3?style=for-the-badge&logo=people&logoColor=white)  
+![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-4CAF50?style=for-the-badge&logo=teams&logoColor=white)  ![Interpersonal Skills](https://img.shields.io/badge/Interpersonal%20Skills-2196F3?style=for-the-badge&logo=people&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
