@@ -9,7 +9,7 @@
 
 **B.Tech – Computer Science & Engineering**  
 *Acropolis Institute of Technology and Research*  
-📊 **CGPA**: 6.21  
+📊 **CGPA**: 6.31  
 
 ---
 
