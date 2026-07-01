@@ -9,7 +9,7 @@
 
 **B.Tech – Computer Science & Engineering**  
 *Acropolis Institute of Technology and Research*  
-📊 **CGPA**: 6.31  
+📊 **CGPA**: 6.71  
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## 📚 Blog / Articles
 
-- [How Google Cloud Implements Model-Based Software Architectures for Scalability](https://medium.com/@udaykushwah220568/how-google-cloud-implements-model-based-software-architectures-for-scalability-a91c89762bca)
+- [Check & Visit my Profile on MEDIUM](https://medium.com/@udaykushwah08)
 
 ---
 
